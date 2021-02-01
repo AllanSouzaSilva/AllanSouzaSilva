@@ -28,4 +28,5 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Astah Commmunity
  - Cisco packtracer
  <br>
- 
+ <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://allansouzasilva.github.io/curriculum/" /></a>
