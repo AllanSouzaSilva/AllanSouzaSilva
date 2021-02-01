@@ -3,10 +3,12 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
 [![social](https://img.shields.io/badge/ENTRE_EM_CONTATO!--white?style=for-the-badge)](https://www.linkedin.com/in/allan-souza-silva-794164146/) ⚡😄
 
 ## Hard skill's
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/225px-C_Sharp_logo.svg.png" alt="C#" height="30"/>
 <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS3" height="30"/>
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML5" height="30"/>
 <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server" height="30"/>
+</p>
 
 **AllanSouzaSilva/AllanSouzaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
