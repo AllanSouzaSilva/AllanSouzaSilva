@@ -2,7 +2,9 @@
 Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de vendas na empresa coca-cola femsa, entretanto me formei em análise e desenvolvimento de sistemas na universidade unip, estou estudando programação a 7 meses, estou em busca de oportunidade na área, qualquer coisa me chame no linkedin.
 
 <p>
+
 [![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/allan-souza-silva-794164146/)
+
 [![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge)](allansouzasilva.github.io/curriculum/)
 </p>
 
