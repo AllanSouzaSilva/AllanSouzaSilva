@@ -18,11 +18,11 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Trabalho em equipe
 <br>
 ## Ferramentas:
- - Visual Studio 2019
+ - Visual Studio 2019 
  - Visual studio code 
  - Sql server management studio 18
  - My sql workbench 8.0 
-  - DevC++ 
+ - DevC++ 
  - Adobe Xd
  - Astah Commmunity 
  
