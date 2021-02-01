@@ -1,6 +1,7 @@
 ### Bem vindo ao meu perfil!  👋
-Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de vendas na empresa coca-cola femsa, entretanto me formei em análise e desenvolvimento de sistemas na universidade unip, estou estudando programação a 7 meses, estou em busca de oportunidade na área, qualquer coisa me chame no linkedin : https://www.linkedin.com/feed/ 😄
-<!--
+Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de vendas na empresa coca-cola femsa, entretanto me formei em análise e desenvolvimento de sistemas na universidade unip, estou estudando programação a 7 meses, estou em busca de oportunidade na área, qualquer coisa me chame no linkedin : 
+[![social](https://img.shields.io/badge/ENTRAR_EM_CONTATO_AGORA--red?style=for-the-badge)](https://www.linkedin.com/in/allan-souza-silva-794164146/) 😄
+<!--https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 **AllanSouzaSilva/AllanSouzaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
