@@ -1,6 +1,11 @@
 ### Bem vindo ao meu perfil!  👋
 Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de vendas na empresa coca-cola femsa, entretanto me formei em análise e desenvolvimento de sistemas na universidade unip, estou estudando programação a 7 meses, estou em busca de oportunidade na área, qualquer coisa me chame no linkedin.
+
+<p>
 [![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/allan-souza-silva-794164146/)
+[![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge)](allansouzasilva.github.io/curriculum/)
+</p>
+
 ## Hard skills:
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/225px-C_Sharp_logo.svg.png" alt="C#" height="30"/>
@@ -16,7 +21,7 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Flexivel 
  - Atitude 
  - Trabalho em equipe
-<br>
+<br>'
 
 ## Ferramentas:
  - Visual Studio 2019 
@@ -28,6 +33,4 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Astah Commmunity
  - Cisco packtracer
  <br>
- <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://allansouzasilva.github.io/curriculum/" /></a>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+ 
