@@ -9,11 +9,11 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
 <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30"/>
 </p>
-##Soft Skills: 
-######  - Empatia 
-######  - Bom relacionamento 
-######  - Flexivel 
-######  - Atitude 
-######  - Trabalho em equipe
+## Soft Skills: 
+  - Empatia 
+  - Bom relacionamento 
+  - Flexivel 
+ - Atitude 
+- Trabalho em equipe
 <br>
-[![AllanSouzaSilva](https://github-readme-stats.vercel.app/api?username=AllanSouzaSilva&theme=dracula)](https://github.com/AllanSouzaSilva/) 
+
