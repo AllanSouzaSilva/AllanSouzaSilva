@@ -1,7 +1,6 @@
 ### Bem vindo ao meu perfil!  👋
-Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de vendas na empresa coca-cola femsa, entretanto me formei em análise e desenvolvimento de sistemas na universidade unip, estou estudando programação a 7 meses, estou em busca de oportunidade na área, qualquer coisa me chame no linkedin : 
-[![social](https://img.shields.io/badge/ENTRE_EM_CONTATO!--white?style=for-the-badge)](https://www.linkedin.com/in/allan-souza-silva-794164146/) ⚡😄
-
+Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de vendas na empresa coca-cola femsa, entretanto me formei em análise e desenvolvimento de sistemas na universidade unip, estou estudando programação a 7 meses, estou em busca de oportunidade na área, qualquer coisa me chame no linkedin.
+[![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/allan-souza-silva-794164146/)
 ## Hard skill's
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/225px-C_Sharp_logo.svg.png" alt="C#" height="30"/>
@@ -10,4 +9,11 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
 <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30"/>
 </p>
-
+##Soft Skills: 
+######  - Empatia 
+######  - Bom relacionamento 
+######  - Flexivel 
+######  - Atitude 
+######  - Trabalho em equipe
+<br>
+[![AllanSouzaSilva](https://github-readme-stats.vercel.app/api?username=AllanSouzaSilva&theme=dracula)](https://github.com/AllanSouzaSilva/) 
