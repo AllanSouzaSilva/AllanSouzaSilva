@@ -16,6 +16,7 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Atitude 
  - Trabalho em equipe
 <br>
+
 ## Ferramentas:
  - Visual Studio 2019 
  - Visual studio code 
@@ -25,4 +26,5 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Adobe Xd
  - Astah Commmunity
  - Cisco packtracer
+ <br>
  
