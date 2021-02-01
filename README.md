@@ -5,7 +5,7 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
 
 [![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/allan-souza-silva-794164146/)
 
-[![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge)](allansouzasilva.github.io/curriculum/)
+[![social](https://img.shields.io/badge/Curriculum--red?style=for-the-badge)](allansouzasilva.github.io/curriculum/)
 </p>
 
 ## Hard skills:
