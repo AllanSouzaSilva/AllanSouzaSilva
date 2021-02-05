@@ -23,7 +23,7 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Flexivel 
  - Atitude 
  - Trabalho em equipe
-<br>'
+<br>
 
 ## Ferramentas:
  - Visual Studio 2019 
