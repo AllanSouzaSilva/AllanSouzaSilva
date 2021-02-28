@@ -35,5 +35,5 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Astah Commmunity
  - Cisco packtracer
  <br>
- [![card](https://github-readme-stats.vercel.app/api?username=AllanSouzaSilva&theme=synthwave)](https://github.com/AllanSouzaSilva/)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=synthwave)](https://github.com/AllanSouzaSilva/)
 
