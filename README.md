@@ -37,3 +37,4 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  <br>
  
 
+[![card](https://github-readme-stats.vercel.app/api?username=AllanSouzaSilva&theme=default)](https://github.com/AllanSouzaSilva/)
