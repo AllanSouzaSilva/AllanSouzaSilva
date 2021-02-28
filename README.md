@@ -36,6 +36,4 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
  - Cisco packtracer
  <br>
  
-![Allan github stats](allan-website-git-main-allansouzasilva.vercel.app/api?username=arnaldog12&count_private=true&show_icons=true&theme=algolia)
-
 
