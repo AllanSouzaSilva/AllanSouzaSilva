@@ -37,5 +37,4 @@ Gostaria de me apresentar meu nome é Allan Souza, tenho 29 anos, moro em são p
  
 [![card](https://github-readme-stats.vercel.app/api?username=AllanSouzaSilva&theme=synthwave)](https://github.com/AllanSouzaSilva/)
 
-[![AllanSouzaSilva](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSouzaSilva&hide=html&layout=compact&theme=synthwave)](https://github.com/AllanSouzaSilva/)
-<div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-16aA11Dy0c3Bz7ax-22.gif' border='0' alt='contador de acesso grátis'></a><script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=16aA11Dy0c3Bz7ax'></script></div>
+[![AllanSouzaSilva](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSouzaSilva&hide=html&layout=compact&theme=synthwave)](https://github.com/AllanSouzaSilva/) 
