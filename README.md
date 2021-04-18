@@ -9,11 +9,11 @@ Gostaria de me apresentar meu nome é Allan Souza, tenho 29 anos, moro em são p
 
 ## Hard skills:
 <p>
-
-<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS3" height="30"/>
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML5" height="30"/>
-<img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server" height="30"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ## Soft Skills: 
