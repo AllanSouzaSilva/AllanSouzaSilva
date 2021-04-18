@@ -30,10 +30,14 @@ Gostaria de me apresentar meu nome é Allan Souza, tenho 29 anos, moro em são p
  - Sql server management studio 18
  - My sql workbench 8.0 
  - DevC++ 
- - Adobe Xd
+ - Adobe Xd 
  - Astah Commmunity
  - Cisco packtracer
- <br>
+  <br>
+  <p align=center>
+
+  <a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-Y5B60A7CCZBb52b9-26.gif' border='0' alt='contador de acesso'></a></p>
+  <br>
  
 [![card](https://github-readme-stats.vercel.app/api?username=AllanSouzaSilva&theme=synthwave)](https://github.com/AllanSouzaSilva/)
 
