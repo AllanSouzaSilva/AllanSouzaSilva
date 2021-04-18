@@ -1,6 +1,5 @@
 # Bem vindo ao meu perfil!  👋
-Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de vendas na empresa coca-cola femsa, entretanto me formei em análise e desenvolvimento de sistemas na universidade unip, estou estudando programação a 7 meses, estou em busca de oportunidade na área, qualquer coisa me chame no linkedin.
-
+Gostaria de me apresentar meu nome é Allan Souza, tenho 29 anos, moro em são paulo, Zona Leste, sou formado em análise e desenvolvimento de sistemas na Universidade Paulista - Unip. Atualmente trabalho como Promotor de Vendas na empresa Coca - Cola Femsa, em São paulo. O objetivo desse site é para trabalhar como freelancer para atender da melhor as necessidades dos clientes que buscam alavancar suas vendas, através de um site divulgando seu trabalho. Qualquer dúvida me chama no whatsapp meu número e redes sociais estão no rodapé do site. Obrigado!
 <p>
 
 [![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/allan-souza-silva-794164146/)
@@ -39,3 +38,4 @@ Meu nome é Allan Souza, tenho 29 anos estou atuando no momento como promotor de
 [![card](https://github-readme-stats.vercel.app/api?username=AllanSouzaSilva&theme=synthwave)](https://github.com/AllanSouzaSilva/)
 
 [![AllanSouzaSilva](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSouzaSilva&hide=html&layout=compact&theme=synthwave)](https://github.com/AllanSouzaSilva/)
+<div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-16aA11Dy0c3Bz7ax-22.gif' border='0' alt='contador de acesso grátis'></a><script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=16aA11Dy0c3Bz7ax'></script></div>
