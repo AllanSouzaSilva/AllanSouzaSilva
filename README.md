@@ -1,5 +1,6 @@
 # Bem vindo ao meu perfil!  👋
-Gostaria de me apresentar meu nome é Allan Souza, tenho 29 anos, moro em são paulo, Zona Leste, sou formado em análise e desenvolvimento de sistemas na Universidade Paulista - Unip. Atualmente trabalho como Promotor de Vendas na empresa Coca - Cola Femsa, em São paulo. O objetivo desse site é para trabalhar como freelancer para atender da melhor as necessidades dos clientes que buscam alavancar suas vendas, através de um site divulgando seu trabalho. Qualquer dúvida me chama no whatsapp meu número e redes sociais estão no rodapé do site. Obrigado!
+Gostaria de me apresentar meu nome é Allan Souza, tenho 29 anos, moro em são paulo, Zona Leste, sou formado em análise e desenvolvimento de sistemas na Universidade Paulista - Unip. Atualmente trabalho como Promotor de Vendas na empresa Coca - Cola Femsa, em São paulo. O objetivo desse site é para trabalhar como freelancer para atender da melhor as necessidades dos clientes que buscam alavancar suas vendas, através de um site divulgando seu trabalho. Entre em contato.
+<br>Obrigado!
 <p>
 
 [![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/allan-souza-silva-794164146/)
